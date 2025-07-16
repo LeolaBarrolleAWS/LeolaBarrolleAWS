@@ -28,5 +28,4 @@ I'm a former educator turned AWS-certified DevOps Engineer passionate about auto
 - 💬 Ask me about living in Africa twice
 - 📫 How to reach me: awsleola@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a mom of five, and my kids often witness me coding for projects. They are coders in the making!
 -->
