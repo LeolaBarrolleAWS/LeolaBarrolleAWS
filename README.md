@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leola Barrolle
 
-I'm a former educator turned AWS-certified DevOps Engineer passionate about automation, infrastructure as code, and continuous improvement. With hands-on project experience in **Terraform**, **CI/CD pipelines**, and **AWS**, I bring a unique blend of communication, resilience, and cloud engineering to every project.
+AWS-certified DevOps Engineer and Machine Learning Specialist (MLOps) passionate about automation, infrastructure as code, and continuous improvement. With hands-on project experience in **Terraform**, **CI/CD pipelines**, and **AWS**, I bring a unique blend of communication, resilience, and cloud engineering to every project.
 
 ### 🚀 What I'm Working On:
 - Completing my Terraform and Linux projects and adding projects to this GitHub 💻
@@ -21,10 +21,9 @@ I'm a former educator turned AWS-certified DevOps Engineer passionate about auto
 - [Medium](https://medium.com/@awsleola)
 
 
-- 🔭 I’m currently working on React-based projects and learning Cloudscape
+- 🔭 I’m currently working on MLOps projects with MLflow Servers and DVC
 - 🌱 I’m currently learning in-depth Terraform module
 - 👯 I’m looking to collaborate on Terraform infrastructure projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about living in Africa twice
 - 📫 How to reach me: awsleola@gmail.com
 - 😄 Pronouns: she/her
